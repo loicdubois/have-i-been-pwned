@@ -1,6 +1,12 @@
 # have-i-been-pwned
 
-Check if passwords have been leaked using the free password API from [haveibeenpwned.com](haveibeenpwned.com)
+Check if passwords have been leaked using the free password API from [haveibeenpwned.com](haveibeenpwned.com).
+
+## Setup
+It is recommended to use a virtual environment, or [pyenv](https://github.com/pyenv/pyenv).
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 ```
